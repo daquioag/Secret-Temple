@@ -6,4 +6,4 @@ This is written in markdown. Read about markdown here: [markdowncheatsheet](http
 
 The Secret Temple is a textbased adventure game.
 
-This repoository shows only the game file. The unit tests are kept hidden due to security and privacy reasons. 
+This repository shows only the game file. The unit tests are kept hidden due to security and privacy reasons.
